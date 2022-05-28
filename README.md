@@ -1,4 +1,4 @@
-# MOOC_Text_Editor
+# Text Editor
 
 ***Language:*** Java <br />
 ***Library:*** Java FX, Java Swing, Applet <br />
