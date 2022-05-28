@@ -11,4 +11,4 @@
  - Generation of **Markov Text** (generate text with the input number of words and the generated text will be made from the text you provide it)
  - **Highlights** and **Underlines** new words
  - Provide **Spelling Suggestions** and **Auto-complete** for the words
-
+ - Includes **Unit Tests** and other **Tests**
